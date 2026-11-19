@@ -79,31 +79,31 @@ React Application
 
 ### 1. Storage Account Configuration
 
-![Storage Account Overview](docs/azure-deployment/01-storage-account-overview.png)
+![Storage Account Overview](docs/azure-deployment/01-storage-account-overview.jpeg)
 
 ### 2. Static Website Configuration
 
-![Static Website Configuration](docs/azure-deployment/02-static-website-configuration.png)
+![Static Website Configuration](docs/azure-deployment/02-static-website-configuration.jpeg)
 
 ### 3. Primary Endpoint
 
-![Static Website Endpoint](docs/azure-deployment/03-static-website-endpoint.png)
+![Static Website Endpoint](docs/azure-deployment/03-static-website-endpoint.jpeg)
 
 ### 4. Blob Container
 
-![Web Container](docs/azure-deployment/04-web-container.png)
+![Web Container](docs/azure-deployment/04-web-container.jpeg)
 
 ### 5. Uploaded Production Files
 
-![Uploaded Website Files](docs/azure-deployment/07-uploaded-website-files.png)
+![Uploaded Website Files](docs/azure-deployment/05-assets-upload.jpeg)
 
 ### 6. Deployed Application
 
-![Azure Website](docs/azure-deployment/09-live-azure-website.png)
+![Azure Website](docs/azure-deployment/06-live-azure-website.jpeg)
 
 ### 7. Browser Network Inspection
 
-![Network Requests](docs/azure-deployment/12-network-requests.png)
+![Network Requests](docs/azure-deployment/08-network-requests.jpeg)
 
 ## Key Learnings
 
